@@ -1,10 +1,10 @@
-# XXX collection
+# brownfield site collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 
-A collection of XXX collected from YYY.
+A collection of shapefiles for [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) collected each night from local planning authorities, which are processed and then assembled into a national dataset.
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema//).
+The national dataset is in a format consistent with other Digital Land datasets as defined by the [geography schema](https://digital-land.github.io/specification/schema/geography/).
 
 # Collection
 
@@ -19,7 +19,7 @@ The national dataset is in a format consistent with other Digital Land datasets 
 
 We recommend working in [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) before installing the python [requirements](requirements.txt), [makerules](https://github.com/digital-land/makerules) and other dependencies:
 
-    $ make update
+    $ make makerules
     $ make init
     $ make
 
