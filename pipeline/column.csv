@@ -1,1 +1,5 @@
 pipeline,resource,pattern,value
+brownfield-site,,WKT,geometry
+brownfield-site,,organisati,organisation
+brownfield-site,,siterefere,reference
+brownfield-site,,sitenamead,name
