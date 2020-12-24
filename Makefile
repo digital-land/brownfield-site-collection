@@ -1,4 +1,5 @@
 include makerules/makerules.mk
 include makerules/development.mk
+include makerules/geospatial.mk
 include makerules/collection.mk
 include makerules/pipeline.mk
