@@ -49,6 +49,7 @@ BROWNFIELD_SITE_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)brownfield-site/dd626f4b77b5a7d3475d2c1ddb5ebf4ec9be56cf720743f3d095f91de760fd7d.csv\
     $(TRANSFORMED_DIR)brownfield-site/e0e677513b57e1a5bf2cf9f656843222f31b99e9bb1d9e660bccb41d37d321d2.csv\
     $(TRANSFORMED_DIR)brownfield-site/e576edb46a7ccbb315fd59f2c2f5d3599e86b6ddca338454b320652229b574f9.csv\
+    $(TRANSFORMED_DIR)brownfield-site/e6d6f96371979e34ab8099427452d0cefd9caedacf68e59f6988fa989d676289.csv\
     $(TRANSFORMED_DIR)brownfield-site/efc4f3a293491330902a76428170583b76f97efd790bbb74c4a5f5a330a6c7ba.csv\
     $(TRANSFORMED_DIR)brownfield-site/fade81b6a3e869932185182df4a92d15ffcf9d258ec3ec63692b37445eb2c85b.csv\
     $(TRANSFORMED_DIR)brownfield-site/fb805b660865c389569dbfcd7a4d1e83882751da6fad397b0a12555757555e97.csv\
@@ -199,6 +200,9 @@ $(TRANSFORMED_DIR)brownfield-site/e0e677513b57e1a5bf2cf9f656843222f31b99e9bb1d9e
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)brownfield-site/e576edb46a7ccbb315fd59f2c2f5d3599e86b6ddca338454b320652229b574f9.csv: collection/resource/e576edb46a7ccbb315fd59f2c2f5d3599e86b6ddca338454b320652229b574f9
+	$(run-pipeline)
+
+$(TRANSFORMED_DIR)brownfield-site/e6d6f96371979e34ab8099427452d0cefd9caedacf68e59f6988fa989d676289.csv: collection/resource/e6d6f96371979e34ab8099427452d0cefd9caedacf68e59f6988fa989d676289
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)brownfield-site/efc4f3a293491330902a76428170583b76f97efd790bbb74c4a5f5a330a6c7ba.csv: collection/resource/efc4f3a293491330902a76428170583b76f97efd790bbb74c4a5f5a330a6c7ba
