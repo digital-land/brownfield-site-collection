@@ -1,2 +1,2 @@
-pipeline,resource,field,default-field,entry-date,start-date,end-date
+dataset,resource,field,default-field,entry-date,start-date,end-date
 brownfield-site,,brownfield-site,reference,,,

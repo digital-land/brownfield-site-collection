@@ -1,4 +1,4 @@
-pipeline,resource,pattern,value
+dataset,resource,column,field
 brownfield-site,,WKT,geometry
 brownfield-site,,OrganisationURI,organisation
 brownfield-site,,organisati,organisation

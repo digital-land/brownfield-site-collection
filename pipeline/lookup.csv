@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 brownfield-site,,local-authority-eng:CON,BR1,1800000
 brownfield-site,,local-authority-eng:CON,BR2,1800001
 brownfield-site,,local-authority-eng:CON,BR4,1800002
