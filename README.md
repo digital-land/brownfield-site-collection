@@ -1,6 +1,7 @@
 # brownfield site collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
+[![Run collection](https://github.com/digital-land/brownfield-site-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/brownfield-site-collection/actions/workflows/run.yml)
 
 A collection of shapefiles for [brownfield land registers](https://www.gov.uk/guidance/brownfield-land-registers) collected each night from local planning authorities, which are processed and then assembled into a national dataset.
 
