@@ -1,0 +1,1 @@
+{"elapsed":"61.086","endpoint-url":"https://map.cornwall.gov.uk/arcgis/services/inspire/inspire_landbuildings/MapServer/WFSServer?request=GetFeature&service=WFS&typename=inspire_inspire_landbuildings:cornwall_council_brownfield_register","entry-date":"2022-09-28T00:05:47.024567","exception":"ConnectionError","ssl-verify":true}
