@@ -1,4 +1,4 @@
-# brownfield site collection
+# brownfield site collection ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Run collection](https://github.com/digital-land/brownfield-site-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/brownfield-site-collection/actions/workflows/run.yml)
